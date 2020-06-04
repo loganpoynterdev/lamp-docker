@@ -15,4 +15,15 @@ Default ports are:
 - 8000:80 for root directory
 - 8081:80 for phpmyadmin
 
+# Usage
+
 ---
+
+```
+git clone https://github.com/mystikdeveloped/lamp-docker.git
+cd lamp-docker
+docker-compose up -d
+```
+
+Once you are finished, execute:
+`docker-compose down`
