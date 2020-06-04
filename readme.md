@@ -41,5 +41,8 @@ Then launch docker-compose to build the containers
 docker-compose up -d
 ```
 
-Once you are finished, execute:  
-`docker-compose down`
+Once you are finished, execute:
+
+```
+docker-compose down
+```
