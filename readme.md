@@ -6,7 +6,7 @@ A quick and dirty starter template for a containerized LAMP stack
 
 This repo can be used to generate a quick set of docker containers for the LAMP stack. It uses `php:7.3-apache` with an execution of `mysqli`.
 
-The database is defaulted to mariadb but this can be altered by editing `docker-compose` for your preferred DB container.
+The database is defaulted to mysql but this can be altered by editing `docker-compose` for your preferred DB container.
 
 Within the www directory is where you will copy your files to for the host. The `index.php` within this directory is just `phpinfo()` to verify functionality.
 
