@@ -17,6 +17,10 @@ Default ports are:
 - 8000:80 for root directory
 - 8081:80 for phpmyadmin
 
+Default credentials are:
+- Username: `testuser`
+- Password: `testpassword`
+
 ### Prerequisites
 
 You will need to have Docker installed on your machine to utilize docker-compose
