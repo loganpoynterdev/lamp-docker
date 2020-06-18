@@ -4,7 +4,7 @@ services:
   php-httpd:
     build: ./php
     ports:
-      - 8000:80
+      - 80:80
     volumes:
       - './www:/var/www/html'
 

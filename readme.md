@@ -14,10 +14,11 @@ phpmyadmin is included as well for access to DB management
 
 Default ports are:
 
-- 8000:80 for root directory
+- 80:80 for root directory
 - 8081:80 for phpmyadmin
 
 Default credentials are:
+
 - Username: `testuser`
 - Password: `testpassword`
 
